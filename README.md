@@ -1,6 +1,6 @@
 # Weekly Challenge #24 - Stairs Animation
 
-**For this challenge, you need to implement a program that makes a character go up and down stairs as the user is pressing right and left.** One of my pet peeves when playing video games is when stairs are involved, the animation almost never look natural. So with this challenge you're going to try an right this wrong :)
+**For this challenge, you need to implement a program that makes a character go up stairs as the user is pressing right.** One of my pet peeves when playing video games is when stairs are involved, the animation almost never look natural. So with this challenge you're going to try an right this wrong :)
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-24-stairs-animations/assets/197597/3b827006-da2b-414f-97e1-26dc9bd97a72">
 
