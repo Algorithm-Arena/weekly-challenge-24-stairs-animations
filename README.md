@@ -10,7 +10,7 @@
 
 * In second place for $75 is @nikpundik and @giusfalco! The motion of the body walking up the stairs looks realistic and the art is stunning! https://github.com/Algorithm-Arena/weekly-challenge-24-stairs-animations/issues/1
 
-* In third place for $50 is @michaelazogu! This entry shows how difficult it is to reproduce human body animation from scratch, the stick figure looks cool! https://github.com/Algorithm-Arena/weekly-challenge-24-stairs-animations/issues/3
+* In third place for $50 is @michael-azogu! This entry shows how difficult it is to reproduce human body animation from scratch, the stick figure looks cool! https://github.com/Algorithm-Arena/weekly-challenge-24-stairs-animations/issues/3
 
 * Honorable mention for @Nakatox! While the stair climbing animation isn't there, it inspired a really cool minigame, the ending is fun if you can get to it! https://github.com/Algorithm-Arena/weekly-challenge-24-stairs-animations/issues/2
 
